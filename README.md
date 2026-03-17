@@ -122,7 +122,7 @@ Outputs:
   title={Benchmarking Multi-Agent LLM Architectures for Home Energy Management:
          Real-World Tariff Validation and Cross-Model Cost-Efficiency Analysis},
   author={Sulmataj, Besnik},
-  year={2025},
+  year={2026},
   url={https://doi.org/10.5281/zenodo.19074522}
 }
 ```
