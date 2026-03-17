@@ -56,7 +56,7 @@ hems-research/
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/besniksulmataj/hems-research.git
+git clone https://github.com/sulmatajb/agentic-hems-benchmark.git
 cd hems-research
 
 # 2. Create virtual environment
