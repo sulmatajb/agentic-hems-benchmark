@@ -137,4 +137,4 @@ This work extends the multi-agent HEMS architecture developed by Makroum et al. 
 
 ## License
 
-MIT License. Copyright (c) 2025 Besnik Sulmataj. See [LICENSE](LICENSE) for details.
+MIT License. Copyright (c) 2026 Besnik Sulmataj. See [LICENSE](LICENSE) for details.
