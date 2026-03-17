@@ -1,0 +1,32 @@
+.env
+*.env
+__pycache__/
+*.pyc
+.DS_Store
+*.log
+.venv/
+venv/
+*.ipynb_checkpoints
+
+# Experiment call logs (large, not needed for reproduction)
+experiments/results/llm_calls.csv
+experiments/results/run_log.txt
+
+# Generated outputs (reproducible via analyze_results.py)
+analysis/figures/
+analysis/tables/
+
+# Paper PDFs (hosted on Zenodo)
+paper/*.pdf
+paper/submission.zip
+paper/submission/
+paper/submission 2/
+
+# Data zip
+data.zip
+
+# Baseline repo clone (not ours)
+agentic-ai-hems/
+
+# Jupyter checkpoints
+notebooks/.ipynb_checkpoints/

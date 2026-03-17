@@ -1,0 +1,10 @@
+{
+  "utility": "Pacific Gas and Electric Co",
+  "query": {
+    "id": "pge_etou_c",
+    "label": "PG&E E-TOU-C",
+    "utility": "Pacific Gas and Electric Co",
+    "name_contains": "E-TOU-C"
+  },
+  "items": []
+}
