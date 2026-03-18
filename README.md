@@ -118,7 +118,7 @@ Outputs:
 ## Citation
 
 ```bibtex
-@article{sulmataj2025hems,
+@article{sulmataj2026hems,
   title={Benchmarking Multi-Agent LLM Architectures for Home Energy Management:
          Real-World Tariff Validation and Cross-Model Cost-Efficiency Analysis},
   author={Sulmataj, Besnik},
